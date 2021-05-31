@@ -2,7 +2,7 @@ import { Button } from '@material-ui/core';
 import React from 'react';
 import { auth, provider } from './features/firebase';
 import "./Login.css"
-import logo from "./logo.png";
+import logo from "./anyTalk.jpg";
 
 const Login = () => {
     const signIn=()=>{

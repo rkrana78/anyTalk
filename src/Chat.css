@@ -42,5 +42,5 @@ color: gray;
 }
 .chat__message{
     flex: 1;
-    
+    overflow: scroll;
 }
